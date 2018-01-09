@@ -34,6 +34,7 @@ Version
 Installation
 --------------
 ```sh
+brew tap homebrew/php
 brew install brew-php-switcher
 ```
 
